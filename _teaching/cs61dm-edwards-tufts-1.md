@@ -8,6 +8,6 @@ date: 2021-09-05
 location: "Medford, MA, USA"
 ---
 
-**Course description:** Sets, relations and functions, logic and methods of proof, combinatorics, graphs and digraphs.
+Course description: Sets, relations and functions, logic and methods of proof, combinatorics, graphs and digraphs.
 
-**Instructor:** Karen Edwards
+Instructor: Karen Edwards
