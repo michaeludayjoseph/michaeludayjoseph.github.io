@@ -2,7 +2,7 @@
 title: "Graduate Teaching Assistant for CS 150 Theoretical Computer Science Toolkit"
 collection: teaching
 type: "Undergraduate course (Spring 2024)"
-permalink: /teaching/cs150qcs-mehraban-tufts
+permalink: /teaching/cs150tcst-podolskii-tufts
 venue: "Tufts University, Department of Computer Science"
 date: 2024-01-01
 location: "Medford, MA, USA"
