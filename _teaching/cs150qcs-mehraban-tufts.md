@@ -1,5 +1,5 @@
 ---
-title: "Graduate Teaching Assistant for CS150 Quantum Computer Science"
+title: "Graduate Teaching Assistant for CS 150 Quantum Computer Science"
 collection: teaching
 type: "Undergraduate course (Spring 2023)"
 permalink: /teaching/cs150qcs-mehraban-tufts
