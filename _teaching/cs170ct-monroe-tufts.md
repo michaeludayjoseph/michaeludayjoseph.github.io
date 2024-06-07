@@ -9,4 +9,5 @@ location: "Medford, MA, USA"
 ---
   
 **Course description:** This course is intended as an introduction to the theory of computation for senior level undergraduates and graduate students looking for background material in theory. The major topics within the course include: models of computation, finite automata, regular languages, context free grammars, turing machines, undecidability, infeasibility, diagonalizations, nondeterminism, information theory, time vs space, and complexity classes.
+
 **Instructor:** Megan Monroe
