@@ -11,3 +11,5 @@ location: "Medford, MA, USA"
 **Course description:** Sets, relations and functions, logic and methods of proof, combinatorics, graphs and digraphs.
 
 **Instructor:** Karen Edwards
+
+**Course website:** <https://www.cs.tufts.edu/comp/61/>
