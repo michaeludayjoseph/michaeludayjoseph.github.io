@@ -1,10 +1,10 @@
 ---
 title: "Graduate Teaching Assistant for CS 61 Discrete Mathematics"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate course (Fall 2021 - Summer 2023)"
 permalink: /teaching/cs61dm-edwards-tufts-1
 venue: "Tufts University, Department of Computer Science"
-date: 2021-09-01
+date:
 location: "Medford, MA, USA"
 ---
 
