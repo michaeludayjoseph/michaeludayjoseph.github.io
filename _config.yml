@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Michael Uday Joseph"
 title_separator          : "-"
 name                     : &name "Michael Uday Joseph"
-description              : &description "Test Website"
+description              : &description "CS PhD student at Tufts University"
 url                      : https://michaeludayjoseph.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "michaeludayjoseph.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Michael Uday Joseph"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student at Tufts University"
+  bio              : "PhD student in Computer Science at Tufts University"
   location         : "Medford, Massachusetts, USA"
   employer         : "Tufts University"
   uri              : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "michaeludayjoseph"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
