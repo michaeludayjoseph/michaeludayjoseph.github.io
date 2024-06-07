@@ -1,5 +1,5 @@
 ---
-title: "Graduate Teaching Assistant for CS 61 Discrete Mathematics"
+title: "Graduate Teaching Assistant for CS/MATH 61 Discrete Mathematics"
 collection: teaching
 type: "Undergraduate course (Fall 2021 - Summer 2023)"
 permalink: /teaching/cs61dm-edwards-tufts-1
