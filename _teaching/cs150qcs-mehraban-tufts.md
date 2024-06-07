@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/cs150qcs-mehraban-tufts
 venue: "Tufts University, Department of Computer Science"
-date: 2023-01-17
+date: 2023-01-01
 location: "Medford, MA, USA"
 ---
   
