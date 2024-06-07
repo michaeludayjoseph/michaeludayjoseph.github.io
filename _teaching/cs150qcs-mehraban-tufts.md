@@ -1,10 +1,10 @@
 ---
 title: "Graduate Teaching Assistant for CS150 Quantum Computer Science"
 collection: teaching
-type: "Undergraduate course (Fall 2021 - Summer 2023)"
+type: "Undergraduate course (Spring 2023)"
 permalink: /teaching/cs150qcs-mehraban-tufts
 venue: "Tufts University, Department of Computer Science"
-date:
+date: 2023-01-01
 location: "Medford, MA, USA"
 ---
   
